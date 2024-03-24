@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 
 # Usage
 
-Simply open the InitialSetup branch which includes index.html, style.css code and images files in it.
+Simply open the final branch which includes index.html, style.css code and images files in it.
 
 Happy Coding!
 
