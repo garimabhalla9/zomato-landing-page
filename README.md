@@ -11,7 +11,7 @@ This is a simple landing page for zomato, a popular online food delivery platfor
 
 # Deployment 
 
-Here is the deployment link: project-zomatoclone.netlify.app
+Here is the deployment link: https://project-zomatoclone.netlify.app
 
 # Installation
 
